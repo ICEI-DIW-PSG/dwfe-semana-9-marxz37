@@ -4,14 +4,11 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Marx Bento Dumbá
+- Matricula: 918513
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![](/public/Screenshot%20.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-
+![](/public/Print%20Console.png)
